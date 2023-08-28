@@ -2,9 +2,10 @@
 ### UBC Library Research Commons
 
 ## Learning Objectives
--
--
-
+- Describe the essential concepts and steps for georeferencing a scanned paper map
+- Demonstrate the georeferencing process using a desktop GIS software
+- Calculate and evaluate errors involved with transforming a paper map into GIS data
+- Formulate ideas for further using georeferneced maps with modern spatial data
 
 :heavy_exclamation_mark: This workshop is in development and not yet complete. :heavy_exclamation_mark:    
 Link to workshop: [https://ubc-library-rc.github.io/gis-georeferencing](https://ubc-library-rc.github.io/gis-georeferencing)

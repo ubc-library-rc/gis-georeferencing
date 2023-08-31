@@ -34,5 +34,6 @@ Link to workshop: [https://ubc-library-rc.github.io/gis-georeferencing](https://
   * georerencing strategies
   * Demo
 
-
+## EXAMPLE Worklfow
+[bc dominion land survey](https://github.com/ubc-lib-geo/bc-dls/blob/master/spatial-index/spatial-index-workflow.md)
 

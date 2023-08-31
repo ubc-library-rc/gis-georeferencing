@@ -29,10 +29,12 @@ Link to workshop: [https://ubc-library-rc.github.io/gis-georeferencing](https://
   * example of landsurvey (also useful for qgis workflow)
 - Hands On
   * Introduce a map
-  * overview of QGIS workflow 
+  * overview of QGIS workflow
   * Discuss projections (GCS)
-  * georerencing strategies
-  * Demo
+  * Georeferencing Considerations
+      * strategies
+      * virtual layers
+
 
 ## EXAMPLE Worklfow
 [bc dominion land survey](https://github.com/ubc-lib-geo/bc-dls/blob/master/spatial-index/spatial-index-workflow.md)

@@ -34,7 +34,12 @@ Link to workshop: [https://ubc-library-rc.github.io/gis-georeferencing](https://
   * Georeferencing Considerations
       * strategies
       * virtual layers
-
+   
+    
+## Some resources
+* https://www.pbcgis.com/georeferencing/
+* https://www.cogeo.org/
+* https://github.com/ect123/gdal2tiles-workshop 
 
 ## EXAMPLE Worklfow
 [bc dominion land survey](https://github.com/ubc-lib-geo/bc-dls/blob/master/spatial-index/spatial-index-workflow.md)

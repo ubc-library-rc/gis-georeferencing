@@ -44,3 +44,5 @@ Link to workshop: [https://ubc-library-rc.github.io/gis-georeferencing](https://
 ## EXAMPLE Worklfow
 [bc dominion land survey](https://github.com/ubc-lib-geo/bc-dls/blob/master/spatial-index/spatial-index-workflow.md)
 
+## EXAMPLE Workshops we could crib from
+[UMass Amherst Georeferencing a Historical Map]([https://github.com/ubc-lib-geo/bc-dls/blob/master/spatial-index/spatial-index-workflow.md](https://umass-gis.github.io/workshops/content/georeferencing/)https://umass-gis.github.io/workshops/content/georeferencing/)

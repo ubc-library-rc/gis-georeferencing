@@ -46,3 +46,4 @@ Link to workshop: [https://ubc-library-rc.github.io/gis-georeferencing](https://
 
 ## EXAMPLE Workshops we could crib from
 [UMass Amherst Georeferencing a Historical Map](https://umass-gis.github.io/workshops/content/georeferencing/)
+[Evan's Georef Warmup Session]](https://ubc-lib-geo.github.io/georef-warmup/presentation/)

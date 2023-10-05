@@ -11,12 +11,6 @@ In this section you will practice georeferencing a historical map... of .... and
 
 overview of QGIS workflow
 
-Steps
-1. open QGIS format. set project projection. find basemap for referencing. make sure proper tool bars are turned on. 
+Considerations:
+Source layer, target layer, Ground control points (GCPs)
 
-2. File format of historical map --> Loading a .tiff into QGIS
-
-Discuss projections (GCS)
-Georeferencing Considerations
-strategies
-virtual layers

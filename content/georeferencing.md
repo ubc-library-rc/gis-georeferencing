@@ -7,14 +7,17 @@ has_children: true
 
 # What is Georeferencing
 
+(differentiate from geocoding!)
 
+
+## Ways to georeference
 
 
 # Why Georeference?
 
 * to add maps to database and make query-able by location or attribute data
 add as basemap    
-* compare place names etc.    
+* comparisons 
 * trace and create shapefiles for spatial (or spatiotemporal) analysis
 
 
@@ -22,5 +25,5 @@ add as basemap
 example of landsurvey (also useful for qgis workflow)
 
 
-# Ways to georeference
+
 

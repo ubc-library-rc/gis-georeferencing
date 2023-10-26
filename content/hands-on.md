@@ -7,7 +7,7 @@ has_children: true
 
 # Georeferencing Overview
 
-In this section you will georeference a historical map of Vancouver with QGIS. The map is one from UBC Library's physical collection. A high quality scan has already been made. This will be your **Source Layer**. You will also need a **Target Layer**, a geospatial data layer which will serve as reference for assigning locative information to the Source Layer. Download the workshop project folder, including the historical map and reference data below.   
+In this section you will georeference a historical map of Vancouver with QGIS. The map is one from UBC Library's physical collection. A high quality scan has already been made. This will be your **Source Layer**. You will also need a **Target Layer**, a geospatial data layer which will serve as reference for assigning locative information to the Source Layer. Download **and unzip** the workshop project folder, including the historical map and reference data below.   
 
 [Download Data](){: .btn .btn-purple }
  

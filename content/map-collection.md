@@ -2,8 +2,8 @@
 layout: default
 title: Map Collection
 nav_order: 2
-has_children: true
 ---
+<!--has_children: true-->
 # Historical Map Collections
     
 IRL exercise to browse historical map collection, facilitated by Alex
@@ -15,3 +15,4 @@ IRL exercise to browse historical map collection, facilitated by Alex
 - browsing digital collections // searching physical collection online
 
 - Maps are not only at koerner library - check out X̱wi7x̱wa Library 
+

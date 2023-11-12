@@ -5,16 +5,15 @@ nav_order: 3
 parent: Hands On
 ---
 
-# Open Georeferencer and Load Source Layer
+# Open Georeferencer 
 
-<br>
 
 Open the Georeferencer tool from the Layers menu at the top of your screen.  
     
 <img src="./images/open-tool_20231112.jpg" style="width:100%">
     
 
-<br>
+# Load Source Layer
 
 Load the source layer by navigating to the **gis-georeferencing-workshop** folder and selecting **vancouver-school-map-1975.tif**. A raster is a file datatype where 
 values are stored in pixel grids. Images are treated as rasters by GIS. 

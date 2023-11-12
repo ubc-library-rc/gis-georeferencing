@@ -22,6 +22,7 @@ The points matched between the two layers are called **Ground Control Points (GC
 <!-- For instance, if the goal is to georeference a map of lower British Columbia, the exact bends of the Fraser River are less important than it's general location. The Fraser River could therefore be used as a reference to match the Source to Target Layer.  -->
  
  
+ [QGIS georeferencer tool documentation](https://docs.qgis.org/3.28/en/docs/user_manual/working_with_raster/georeferencer.html)
 
 
 

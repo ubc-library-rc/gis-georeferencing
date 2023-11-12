@@ -7,9 +7,10 @@ parent: Hands On
 
 # Begin Georeferencing! 
 
-<!-- ## Add GCP Points -->
 
-You are now ready to begin georeferencing by adding Ground Control Points (GCPs). 
+<br>
+You are now ready to begin georeferencing by adding Ground Control Points (GCPs). <br>
+Click the **Add Point** icon in the Georeferencer Window to get started.
     
 <img src="./images/add-point_20231112.jpg" style="width:90%">
 
@@ -21,7 +22,7 @@ Choose your first GCP on the historical map. Once you select a GCP on Source Lay
 
    
 
-If you need to zoom or pan on the Map Canvas, you will have to re-click "From Map Canvas" from the Enter Map Coordinates dialogue box. If the dialogue box is no longer visible, it is likely hiding behind your current window. 
+If you need to zoom or pan on the Map Canvas, you will have to re-click "From Map Canvas" from the Enter Map Coordinates dialogue box. If the dialogue box is no longer visible, it's likely hiding behind your current window. 
 {: .note}
 
 
@@ -38,13 +39,7 @@ You should now see your first point added to the GCP table in the Georeferencer 
 
 ----
 
-Continue adding GCPs. 
-
-Recommend - crossroads for this workshop. begin around perimeter - helps do a couple main streets. 
-helps to do a couple main streets -- 41st and granville burrard boundary kingsway sm marine drive - dunbar and 
-around around bridge
-
-
+Continue adding GCPs. For this historical map, I recommend primarily using street intersections as GCPS. Begin around the periphery and then add some along major crossroads towards the center of Vancouver. Below is a sample set of 33 GCPs. If well placed, this should be plenty to georeference this map. 
 
 
 <img src="./images/sample-GCP-points-source_20231112.jpg" style="width:100%">
@@ -53,13 +48,25 @@ around around bridge
 You can find this set of sample GCPs in the workshop folder  or download [here](). From the Georeferencer Window, you can choose to upload a set of GCPs from the menu. 
 {: .note}
 
-explain how to go back -- re do a point with error 
+You can always remove a GCP and re-place it, or move an existing GCP around.
 <img src="./images/delete-point_20231112.jpg" style="width:100%">
+
+<br>
+I also recommend anchoring the shoreline by adding GCPs on either side of the three bridges. 
+
+<img src="./images/bridge-points_20231112.jpg" style="width:100%">
+
 
 ## Assessing Error 
 
-dont worry about them too muc 
-the more the warp the more the little red lines - showing moveing (give bridge example)
+What are those red lines? 
+
+Residual (pixels) 
+warp
+
+dont worry about them too much
+
+
 
 
 

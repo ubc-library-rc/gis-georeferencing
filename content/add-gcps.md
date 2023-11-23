@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Add GCPs 
+title: Add Control Points 
 nav_order: 5
 parent: Hands On
 ---

@@ -9,7 +9,7 @@ has_children: true
 
 In this section you will georeference a historical map of Vancouver schools (1975) with QGIS. The map is one from UBC Library's physical collection. A high quality scan has already been made. This will be your **Source Layer**. You will also need a **Target Layer**, a geospatial data layer which will serve as reference for assigning locative information to the Source Layer. The Target Layers for this workshop will be a spatial file of Vancouver's shoreline and a web-based map of city streets. You will also be provided with a dataset of Vancouver schools (2023) from the [Vancouver Open Data Portal](https://opendata.vancouver.ca/explore/dataset/schools/map/?location=12,49.25526,-123.11228). Download **and unzip** the workshop project folder now.
 
-[Download Data](){: .btn .btn-purple }
+[Download Data](gis-georeferencing-workshop.zip){: .btn .btn-purple }
  
 When georeferencing within a Geographic Information System (GIS) like QGIS, the basic workflow is as follows
 

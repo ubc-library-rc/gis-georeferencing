@@ -9,7 +9,7 @@ parent: Hands On
     
 <!-- *1*{: .circle .circle-purple}  -->
 ## Open the QGIS Project
-If you haven't already, [download QGIS](https://qgis.org/en/site/forusers/download.html). Revisit the Introduction of this workshop for instructions. You should also have downloaded **and unzipped** the workshop project folder. Inside you will see the historical map (vancouver-school-map-1975.tif), schools.geojson, shoreline.geojson, and a QGIS project file called gis-georeferencing.qgz. Double click the QGIS project to open it. 
+If you haven't already, [download QGIS](https://qgis.org/en/site/forusers/download.html). Revisit the Introduction of this workshop for instructions. You should also have downloaded **and unzipped** the [workshop project folder](gis-georeferencing-workshop.zip). Inside you will see the historical map (`vancouver-school-map-1975.tif`), `schools.geojson`, `shoreline.geojson`, and a QGIS project file called `gis-georeferencing.qgz`. Double click the QGIS project to open it. 
 
 Click <a href="https://ubc-library-rc.github.io/gis-intro-qgis/content/qgis-gui.html" target="_blank">here</a> for a review of the QGIS Graphical User Interface (GUI). 
 

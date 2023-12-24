@@ -10,20 +10,25 @@ Setting the project CRS doesn't change the stored projection of each layer, only
 
 When choosing the CRS for your QGIS project, it's important to think about both the projection of your Source Layer and the projection of your Target Layer. Generally, you want to set project's CRS to the projection you want your map georeferenced in. The best projection will depend on many factors, including the scale and area the map covers, and what properties (size, angle, distance or direction). If your Source Layer appears to be already projected, it's useful to do some research to deduce the what projection it's in. 
 
+## Datums and Projections 
+move cursor around, look at status bar. decimal degrees and meters - distance. Geographic coordinate system and projected coordinate system/ Datum and Projection. Projection - 3d to 2d. after Datum - Ellipsoid approximation. 
+    
+INCLUDE DIAGRAM
+    
+CRS includes information on both the GCS and PCS - though PCS is not nec to visualize in GIS. 
+
+Common datums are NAD 83 or WGS 84 - numbers represent years surveys completed. However, the historical map we're georeferencing today was made in 1975, before either of those datums. It looks already projected so I'm guessing it was NAD 27, the north american datum in 27. UTM - projection - universal transverse mercator, zone 10N - most accurate shape (?) wise for the sliver right over vancouver. As you will see, choosing the most likely CRS now will make georeferencing a lot more seamless later on. 
+
+<!--vancouver open data allows you to download in wgs or nad; download in wgs or else wont be coordinate-->
 
 
-<!-- other data projections - will reproject on fly to match project 
-> wgs for open street map
-> vancouver open data allwos you to download in wgs or nad 
+## Set Project CRS
 
-This workshop focuses on the practical  -->
+We'll set the project CRS to --- or ESPG
 
-<!-- how important to know whether your map has projection ///what it is -- and that of your target layers (vancouver open data allwos you to download in wgs or nad --- explain these -  -- downlaod in wgs or else wont be coordinate --) - why does nad not work?   -->
+To do this...
 
 
-<!-- Datums and Projections  -->
-
-
-
+Notice what happens on map canvas. 
 
 

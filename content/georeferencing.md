@@ -4,29 +4,29 @@ title: Georeferencing
 nav_order: 3
 ---
 
-## What is Georeferencing
-Georeferencing appends coordinate information to non-spatial data, such as images.  
-While historical maps represent a place and trace geographic features such as roads, rivers, buildings, cities, and political boundaries, cannot be read by a Geographic Information System (GIS) because the locational data for these features is not stored in a manner legible to the GIS––latitude/longitude coordinate pairs. Georeferencing uses Ground Control Points (GCPs) to warp an image to the reference of a known geospatial file.  (edit; elaborate)
+# Georeferencing
 
-Georeferencing is not geocoding. Geocoding is when you have a tabular dataset with street addresses and you use a GIS to geolocate the data as coordinate points.  
-
-## Ways to georeference
-- 
-- 
-- This workshop will use a GIS to georeference an already scanned map from UBC Library's historical map and atlas collection. The Hands On portion of the workshop will guide you through this workflow in greater detail. 
+Georeferencing appends coordinate information to non-spatial data, such as images. While historical maps represent a place, tracing geographic features such as roads, rivers, buildings, cities, and political boundaries, they cannot be read by a Geographic Information System (GIS) because the locational data for these features is not stored in a manner legible to the GIS––i.e., in latitude/longitude coordinate pairs. Georeferencing is the process of warping an image so that its geographic features match the location of those on a known geospatial layer. 
+    
+Note that georeferencing is not geocoding. Geocoding is when you have a tabular dataset with street addresses and you use a GIS to geolocate the data as coordinate points. 
 
 ## Why georeference?
+What do you hope to gain from georeferencing? How might georeferencing be useful in your area of research? There are many reasons one might want to georeference a historical map, included, but not limited to the following
 
-* to add maps to database and make query-able by location or attribute data
-add as basemap    
-* comparisons 
-* trace and create shapefiles for spatial (or spatiotemporal) analysis
+- to render maps query-able by location or attribute data
+- to add as a project basemap    
+- to make comparison calculations 
+- to serve as reference for creating shapefiles for spatial analysis or reference mapping
+
+## Ways to georeference
+This workshop will use a GIS to georeference an already scanned map from UBC Library's historical map and atlas collection. The workflow is elaborated in the Hands On section. There are other ways to georeference, however, like 
+- x
+- y
+- z
+    
+Consider exploring these for next steps after you complete this workshop. 
 
 
-## Examples and Resources? or put in next steps? 
-example of landsurvey (also useful for qgis workflow)
-
-[resource](https://docs.qgis.org/3.28/en/docs/training_manual/forestry/map_georeferencing.html)
 
 
 

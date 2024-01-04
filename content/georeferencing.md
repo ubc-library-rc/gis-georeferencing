@@ -18,14 +18,7 @@ What do you hope to gain from georeferencing? How might georeferencing be useful
 - to make comparison calculations 
 - to serve as reference for creating shapefiles for spatial analysis or reference mapping
 
-## Ways to georeference
-This workshop will use a GIS to georeference an already scanned map from UBC Library's historical map and atlas collection. The workflow is elaborated in the Hands On section. There are other ways to georeference, however, like 
-- x
-- y
-- z
-    
-Consider exploring these for next steps after you complete this workshop. 
-
+This workshop will use a GIS to georeference an already scanned map from UBC Library's historical map and atlas collection. The workflow is elaborated in the Hands On section. 
 
 
 

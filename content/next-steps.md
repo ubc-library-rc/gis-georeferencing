@@ -5,10 +5,6 @@ nav_order: 5
 ---
 # Next Steps
 
-Now that your historical map is georeferenced, there are many things you could do. 
-
-
----
 ## Where to find Target Layers 
 - [Natural Earth Data](https://www.naturalearthdata.com/downloads/) provides free and open source geospatial data for world geographic features at three scales. 
 - Download [Open street map](https://www.openstreetmap.org/#map=11/49.2492/-123.0149&layers=T) from online or through QGIS with Quick Map Services plugin

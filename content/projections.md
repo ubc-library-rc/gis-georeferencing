@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Set Project CRS
-nav_order: 2
+nav_order: 
 parent: Hands On
 ---
 # Choose Coordinate Reference System 
@@ -10,8 +10,9 @@ Setting the project CRS doesn't change the stored projection of each layer, only
 
 When choosing the CRS for your QGIS project, it's important to think about both the projection of your Source Layer and the projection of your Target Layer. Generally, you want to set project's CRS to the projection you want your map georeferenced in. The best projection will depend on many factors, including the scale and area the map covers, and what properties (size, angle, distance or direction). If your Source Layer appears to be already projected, it's useful to do some research to deduce the what projection it's in. 
 
+
 ## Datums and Projections 
-move cursor around, look at status bar. decimal degrees and meters - distance. Geographic coordinate system and projected coordinate system/ Datum and Projection. Projection - 3d to 2d. after Datum - Ellipsoid approximation. 
+Move your cursor around  cursor around, look at status bar. decimal degrees and meters - distance. Geographic coordinate system and projected coordinate system/ Datum and Projection. Projection - 3d to 2d. after Datum - Ellipsoid approximation. 
     
 INCLUDE DIAGRAM
     

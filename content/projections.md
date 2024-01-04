@@ -1,8 +1,8 @@
 ---
-layout: default
-title: Set Project CRS
-nav_order: 
-parent: Hands On
+# layout: default
+# title: Set Project CRS
+# nav_order: 2
+# parent: Hands On
 ---
 # Choose Coordinate Reference System 
 

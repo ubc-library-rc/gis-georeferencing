@@ -4,9 +4,6 @@ title: Introduction
 nav_order: 1
 has_children: true
 ---
-#### this workshop is in development and not yet complete.
-{: .warn}
-
 # Georeferencing Historical Maps
 
 This workshop offers an introduction to georeferencing historical maps with QGIS. If you attend the synchronous, in-person facilitation, we will begin by exploring Koerner Library's physical map collection on Level 2. The Hands On section will guide you through georeferencing a scanned historical map of Vancouver Schools from 1975. Whether you attend the facilitated event or work through this website in your own time, by the end of this workshop you will be able to

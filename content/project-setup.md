@@ -6,7 +6,7 @@ parent: Hands On
 ---
 
 # Project Setup
-If you haven't already, [download QGIS](https://qgis.org/en/site/forusers/download.html). Revisit the Introduction of this workshop for instructions. You should also have downloaded **and unzipped** the [workshop project folder](gis-georeferencing-workshop.zip).
+If you haven't already, [download **QGIS 3.28.15 'Firenze'**](https://qgis.org/en/site/forusers/download.html). Revisit the Introduction of this workshop for instructions. You should also have downloaded **and unzipped** the [workshop project folder](gis-georeferencing-workshop.zip).
     
 <!-- *1*{: .circle .circle-purple}  -->
 ## Open the QGIS Project

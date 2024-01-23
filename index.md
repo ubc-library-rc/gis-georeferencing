@@ -17,7 +17,7 @@ This workshop offers an introduction to georeferencing historical maps with QGIS
 ## Prerequisites
 Before attending this workshop we recommend you establish a basic familiarity with the QGIS Interface. Check out the Library's [Map Production with QGIS](https://ubc-library-rc.github.io/gis-intro-qgis/) for a gentle introduction. If you're already familiar with QGIS, browse the [full QGIS documentation](https://docs.qgis.org/3.28/en/docs/) for inspiration.
 
-Georeferencing historical maps requires you download QGIS before the workshop. QGIS can be downloaded from [qgis.org's Downloads page](https://qgis.org/en/site/forusers/download.html). In most cases, you'll want to download and install the **Long term release** instead of the latest release. This will give you most of the functionality you'll need, without encountering the software bugs of newly released versions.
+Georeferencing historical maps requires you download QGIS before the workshop. QGIS can be downloaded from [qgis.org's Downloads page](https://qgis.org/en/site/forusers/download.html). In most cases, you'll want to download and install the **Long term release** instead of the latest release - currently **QGIS 3.28.15 'Firenze'**. This will give you most of the functionality you'll need, without encountering the software bugs of newly released versions.
 <br>
 <br>       
 #### GIS Resources at UBC:

@@ -28,7 +28,8 @@ Setting the project CRS doesn't change the stored projection of each layer, only
 
 When choosing the CRS for your QGIS project, it's important to think about both the projection of your Source Layer and the projection of your Target Layer. Generally, you want to set project's CRS to the projection you want your map georeferenced in. The best projection will depend on many factors, including the scale and area the map covers, and what properties (size, angle, distance or direction). If your Source Layer appears to be already projected, it's useful to do some research to deduce the what projection it's in. From the **Project** Menu at the top of your screen, go to **Properties** and then **CRS**. Notice that as we deduced, the project is using the datum WGS 84, and is unprojected.  
 
-
+To Do 
+{: .label .label-green}
 Set your project projection to `NAD 27 / UTM zone 10N`. Notice the map become less slanted and the status bar units change from decimal degrees to meters. 
 
 <!-- <img src="./images/project-properties_20240104.png" style="width:100%"> -->

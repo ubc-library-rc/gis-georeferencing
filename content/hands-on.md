@@ -24,7 +24,7 @@ When georeferencing within a Geographic Information System (GIS) like QGIS, the 
 5. Assess error; Adjust; Save georeferenced image
 
 The points matched between the two layers are called **Ground Control Points (GCPs)**. When choosing a map to georeference (Source Layer) and geospatial reference layer(s) (Target Layer), it is important to ensure there are clear GCPs. GCPs may be physical geographic features, such as river bends, coastlines, or lake boundaries. GCPs may be infrastructural features such as the intersection of two roads or political boundaries or meridian lines. In any case, it is important to consider whether the geographic location of a potential GCP may have changed in the time since the historical map was rendered. These changes will matter more or less depending on the scale of the Source Layer. Most likely, your GCPs will be mix of features.
-<!-- For instance, if the goal is to georeference a map of lower British Columbia, the exact bends of the Fraser River are less important than it's general location. The Fraser River could therefore be used as a reference to match the Source to Target Layer.  -->
+
 
 
 

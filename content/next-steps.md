@@ -27,6 +27,9 @@ nav_order: 14
 - [geoTIFF](https://www.cogeo.org/)
 - [IIIF](https://iiif.io/)
 - [Creating Map Tiles with GDAL](https://github.com/ect123/gdal2tiles-workshop)
+- [allmaps] (https://allmaps.org/)
+- [https://www.davidrumsey.com/view/georeferencer](https://www.davidrumsey.com/view/)
+- [https://mapwarper.net/](https://mapwarper.net/)
 
 
 #### GIS Resources at UBC:

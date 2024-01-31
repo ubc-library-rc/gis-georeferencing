@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Set Project CRS
-nav_order: 2
+nav_order: 9
 parent: Hands On
 ---
 
@@ -20,13 +20,13 @@ A coordinate system is the math governing the projection of points on an ellipso
 <img src="./images/GCS-example.png" style="height:50%;">
 
 
-These two ques tell us that our project is in a GCS because geographic coordinate systems plot points in decimal degrees, whereas the unit for projected coordinate systems is meters. If you are interested in any sort of distance or area measurement, you'll want to ensure your project has a PCS. 
+These two ques tell us that our project is in a GCS because geographic coordinate systems plot points in decimal degrees, whereas the unit for projected coordinate systems is meters. If you are interested in any sort of distance or area measurement, you'll want to ensure your project has a defined PCS. 
 
 
 ## Set Project CRS
 Setting the project CRS doesn't change the stored projection of each layer, only how they are rendered 'on the fly' by QGIS. QGIS will reproject all the project layers 'on the fly' to match the project CRS. Read the [QGIS Documentation on coordinate reference systems](https://docs.qgis.org/3.28/en/docs/gentle_gis_introduction/coordinate_reference_systems.html) or check out the Library's [workshop on projections](https://ubc-library-rc.github.io/map-projections/content/CRS.html) if you're interested in learning more. Another great reasource is [pbcgis.com/projection_fundamentals/](https://www.pbcgis.com/projection_fundamentals/).
 
-When choosing the CRS for your QGIS project, it's important to think about both the projection of your Source Layer and the projection of your Target Layer. Generally, you want to set project's CRS to the projection you want your map georeferenced in. The best projection will depend on many factors, including the scale and area the map covers, and what properties (size, angle, distance or direction). If your Source Layer appears to be already projected, it's useful to do some research to deduce the what projection it's in. From the **Project** Menu at the top of your screen, go to **Properties** and then **CRS**. Notice that as we deduced, the project is using the datum WGS 84, and is unprojected.   
+When choosing the CRS for your QGIS project, it's important to think about both the projection of your Source Layer and the projection of your Target Layer. Generally, you want to set project's CRS to the projection you want your map georeferenced in. The best projection will depend on many factors, including the scale and area the map covers, and what properties (size, angle, distance or direction). If your Source Layer appears to be already projected, it's useful to do some research to deduce the what projection it's in. From the **Project** Menu at the top of your screen, go to **Properties** and then **CRS**. Notice that as we suspected, the project is using the datum WGS 84, and has no projected coordinate system.   
 
 To Do 
 {: .label .label-green}
@@ -38,11 +38,11 @@ Set your project projection to `NAD 27 / UTM zone 10N`. Notice the map become le
 <img src="./images/Nad27UTMzone10N_20240104.png" style="width:100%">
 
 
-**NAD 27** refers to the North American Datum created in 1927. We won't use NAD 83 because since it was created *after* our historical map, it couldn't have been used by the original cartographer as reference. **UTM** stands for Universal Transverse Mercator, a commonly used Projected Coordinate System. Mercator projections distort size but preserve angles and shapes. To further reduce distortion we will choose zone 10N, which is the UTM zone specific to our area of interest.
+**NAD 27** refers to the North American Datum created in 1927. We won't use NAD 83 because since it was created *after* our historical map, it couldn't have been used by the original cartographer as reference. **UTM** stands for Universal Transverse Mercator, a commonly used projection. Mercator projections distort size but preserve angles and shapes. To further reduce distortion we will choose zone 10N, which is the UTM zone specific to our area of interest.
 
 Note that you can set the CRS for your georeferenced layer independently of the CRS you choose for your project. In cases where the georeferenced image covers but one small area of your entire map, you might choose to do so. However, because our focus is on Vancouver, we can set the project CRS to what we want our map georeferenced in, saving us a step down the line.
 
-Save your project.
+Remember to save your project before continuing.
 
 
 

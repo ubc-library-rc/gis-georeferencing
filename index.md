@@ -30,4 +30,4 @@ Georeferencing historical maps requires you download QGIS before the workshop. Q
 - Schedule a 1:1 consult with the geospatial team [here](https://libcal.library.ubc.ca/appointments/research_commons#s-lc-public-pt)
 
 <p style="margin-top:90px"></p>
-<p style="color:grey; font-size:12px">This workshop was authored by Lily Demet.</p>
+<p style="color:grey; font-size:12px">This workshop was authored by Lily Demet and Alex Alisauskas.</p>

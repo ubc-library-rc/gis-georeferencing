@@ -19,6 +19,6 @@ Please take a moment to explore [native-land.ca](https://native-land.ca/) so tha
 
 ## Workshop Site and Template
 
-The content for this workshop was authored by Lily Demet. 
+The content for this workshop was authored by Lily Demet and Alex Alisauskas. 
    
 Site template adapted from the [just-the-docs](https://github.com/pmarsceill/just-the-docs) Jekyll template created by [Patrick Marsceil](https://github.com/pmarsceill) and available under the [MIT License](http://opensource.org/licenses/MIT).

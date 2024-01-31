@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Run Georeferencer
-nav_order: 5
+nav_order: 13
 parent: Hands On
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Open Georeferencer
-nav_order: 3
+nav_order: 10
 parent: Hands On
 ---
 
@@ -18,7 +18,7 @@ A raster is a file datatype where values are stored in pixel grids. Images are t
    
 <img src="./images/open-raster.png" style="width:100%">
 
-You should now see the historical map loaded to the Georeferencer tool canvas.
+You should now see the historical map loaded to the Georeferencer canvas.
 <img src="./images/georeferencer-toolbar_20231112.jpg" style="width:100%">
 
 

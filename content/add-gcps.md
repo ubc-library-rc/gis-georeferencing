@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Add Control Points 
-nav_order: 5
+nav_order: 12
 parent: Hands On
 ---
 
@@ -32,7 +32,7 @@ You should now see your first point added to the GCP table in the Georeferencer 
 <img src="./images/first-GCP-pair_20231112.jpg" style="width:100%">
     
 ## Continue adding GCPs
-For this historical map, it's recommended you I recommend primarily using street intersections as GCPs. Begin around the periphery and then add some along major crossroads towards the center of Vancouver. I also recommend anchoring the shoreline by adding GCPs on either side of the three bridges. 
+For this historical map, it's recommended you I recommend primarily using street intersections as GCPs. Begin around the periphery and then add some along major crossroads towards the center of Vancouver. Refrain from concentrating your GCPs in one area alone, as this will result in only part of your historical map being georeferenced. I also recommend anchoring the shoreline by adding GCPs on either side of the three bridges. 
 
 <img src="./images/bridge-points_20231112.jpg" style="width:100%">
     
@@ -48,7 +48,7 @@ Below is a sample set of 33 GCPs. If well placed, this should be plenty to geore
 <img src="./images/sample-GCP-points-source_20231112.jpg" style="width:100%">
 <img src="./images/sample-GCP-points-target_20231112.jpg" style="width:100%">
 
-You can find this set of sample GCPs in the workshop folder  or download [here](sample-GCP-points.points). From the Georeferencer Window, you can choose to upload a set of GCPs from the menu. 
+You can find this set of sample GCPs in the workshop folder  or download [here](sample-GCP-points.points). From the Georeferencer Window, you can choose to upload a set of GCPs from the menu.
 {: .note}
 
 

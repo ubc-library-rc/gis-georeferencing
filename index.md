@@ -6,11 +6,11 @@ has_children: true
 ---
 # Georeferencing Historical Maps
 
-This workshop offers an introduction to georeferencing historical maps with QGIS. If you attend the synchronous, in-person facilitation, we will begin by exploring Koerner Library's physical map collection on Level 2. The Hands On section will guide you through georeferencing a scanned historical map of Vancouver Schools from 1975. Whether you attend the facilitated event or work through this website in your own time, by the end of this workshop you will be able to
+This workshop offers an introduction to georeferencing historical maps with QGIS. If you attend the synchronous, in-person facilitation, we will begin by exploring Koerner Library's physical map collection on Level 2. The *Hands On* section of this workshop will then guide you through georeferencing a scanned historical map of Vancouver Schools from 1975. Whether you attend the facilitated event or work through this website in your own time, by the end of this workshop you will be able to
 
 - Understand the essential concepts and steps for georeferencing a digitized historical map    
 - Demonstrate the georeferencing process using a desktop GIS software    
-- Calculate and evaluate errors involved with transforming a paper map into GIS data    
+- Evaluate errors involved with transforming a paper map into GIS data    
 - Formulate ideas for further using georeferenced maps with modern spatial data    
 
     

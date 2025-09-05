@@ -5,7 +5,9 @@
 Link to workshop: [https://ubc-library-rc.github.io/gis-georeferencing/](https://ubc-library-rc.github.io/gis-georeferencing/)
 <br>
 
-This workshop offers an introduction to georeferencing historical maps with QGIS.Before attending this workshop we recommend you establish a basic familiarity with the QGIS Interface. Check out the Library's [Map Production with QGIS](https://ubc-library-rc.github.io/gis-intro-qgis/) for a gentle introduction. 
+Description: This workshop offers an introduction to georeferencing historical maps with QGIS.
+
+Before attending this workshop we recommend you establish a basic familiarity with the QGIS Interface. Check out the Library's [Map Production with QGIS](https://ubc-library-rc.github.io/gis-intro-qgis/) for a gentle introduction. 
        
 
 This workshop is authored by Lily Demet, Graduate Academic Assistant in Geospatial Information and Technology and Alex Alisauskas, Humanities & Social Sciences Librarian.
